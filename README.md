@@ -48,7 +48,7 @@
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ## 📫 &nbsp; How to reach me:
-<a href="mailto:rishikumartamrakar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:rishi.ktamrakar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/rishitamrakar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://medium.com/@rishitamrakar"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a> &nbsp;
 <a href="https://rishitamrakar.com/"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
