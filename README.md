@@ -1,7 +1,7 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rishi
 ![version :26.12.2024](https://img.shields.io/badge/version-26.12.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rishitamrakar&color=red)&nbsp;
-[![GitHub rishitamrakar](https://img.shields.io/github/followers/rishitamrakar?label=follow&style=social)](https://github.com/rishitamrakar)&nbsp;
+[![GitHub rishitamrakar](https://img.shields.io/github/followers/rishitamrakar?label=follow&style=social)](https://github.com/rishi-tamrakar)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ## 👨🏻‍💻 &nbsp;About Me
